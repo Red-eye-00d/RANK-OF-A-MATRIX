@@ -21,12 +21,12 @@ To write a python program to find the rank of a matrix
 #RegisterNumber:212224230276
 
 import numpy as np
-a=np.array([[3,2,5],[1,1,2],[3,3,6]])
+a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 solution=np.linalg.matrix_rank(a)
 print(solution)
 ```
 ## Output:
-![Screenshot 2025-04-27 154926](https://github.com/user-attachments/assets/500e5609-82c8-499e-b690-bdb171503862)
+![image](https://github.com/user-attachments/assets/ec09dcee-a7cf-4e71-814e-d0a4490dfe30)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
